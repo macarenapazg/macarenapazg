@@ -5,7 +5,7 @@
 ## Front End Developer 👩🏻‍💻
 
 - 👾 I’m currently interested in creating useful and meaningful products
-- 👾 I’m currently working with these tools: **Javascript, CSS, HTML5, Firebase, Figma, Canva, Trello
+- 👾 I’m currently working with these tools: **Javascript, CSS, HTML5, Firebase, Figma, Canva, Trello**
 
 
 ### 📫 How to reach me:
