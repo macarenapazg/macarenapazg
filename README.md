@@ -1,5 +1,6 @@
 ### Hi there 👋
-![game-over](https://github.com/macarenapazg/macarenapazg/assets/113479365/7719cb51-a6ad-424e-b203-a51a76491b00)
+
+![javascript-code-web-development-technology-wallpaper-preview](https://github.com/macarenapazg/macarenapazg/assets/113479365/4d35ff80-4b84-4b26-8fd4-53b4c60d562b)
 
 <!--
 **macarenapazg/macarenapazg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
