@@ -1,7 +1,5 @@
-### Hi there 👋
-
 ![javascript-code-web-development-technology-wallpaper-preview](https://github.com/macarenapazg/macarenapazg/assets/113479365/4d35ff80-4b84-4b26-8fd4-53b4c60d562b)
-
+### Hi, I'm Macarena Paz ☮
 <!--
 **macarenapazg/macarenapazg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
