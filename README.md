@@ -1,6 +1,6 @@
 ![javascript-code-web-development-technology-wallpaper-preview](https://github.com/macarenapazg/macarenapazg/assets/113479365/296ac6f6-1a0c-4326-affd-8ff12318d27a)
 
-### Hi, I'm Macarena Paz ☮
+# Hi, I'm Macarena Paz ☮
 
 ## Front End Developer 👩🏻‍💻
 
@@ -8,7 +8,7 @@
 - 👾 I’m currently working with # Javascript, CSS, HTML5, Firebase
 
 
-# 📫 How to reach me:
+### 📫 How to reach me:
 
 ➡️   macarenapazgm@gmail.com
 
