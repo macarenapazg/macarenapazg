@@ -5,14 +5,14 @@
 ## Front End Developer 👩🏻‍💻
 
 - 👾 I’m currently interested in creating useful and meaningful products
-- 👾 I’m currently working with # Javascript, CSS, HTML5, Firebase
+- 👾 I’m currently working with these tools: **Javascript, CSS, HTML5, Firebase, Figma, Canva, Trello
 
 
 ### 📫 How to reach me:
 
-➡️   macarenapazgm@gmail.com
+➡️      macarenapazgm@gmail.com
 
-➡️   https://www.linkedin.com/in/macarenapazg/
+➡️      https://www.linkedin.com/in/macarenapazg/
 
 
 
