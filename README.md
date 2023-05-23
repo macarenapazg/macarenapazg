@@ -5,8 +5,10 @@
 ## Front End Developer 👩🏻‍💻
 
 - 👾 I’m currently interested in creating useful and meaningful products
+- 👾 I’m currently working with #Javascript, CSS, HTML5, Firebase
 
-📫 How to reach me:
+
+#📫 How to reach me:
 
 ➡️   macarenapazgm@gmail.com
 
