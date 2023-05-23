@@ -7,7 +7,9 @@
 - 👾 I’m currently interested in creating useful and meaningful products
 
 📫 How to reach me:
+
 ➡️   macarenapazgm@gmail.com
+
 ➡️   https://www.linkedin.com/in/macarenapazg/
 
 
