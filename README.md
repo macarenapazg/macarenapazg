@@ -1,4 +1,4 @@
-![javascript-code-web-development-technology-wallpaper-preview (1)](https://github.com/macarenapazg/macarenapazg/assets/113479365/0f4bed65-b920-4713-830f-c020ef3c02d8)
+![bnner](https://github.com/macarenapazg/macarenapazg/assets/113479365/fc47afad-6e56-48fa-86b6-4e7c9482f05a)
 
 # Hi, I'm Macarena Paz ☮
 
