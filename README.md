@@ -1,4 +1,5 @@
- ![Diseño sin título](https://github.com/macarenapazg/macarenapazg/assets/113479365/ad60ee54-e803-44f2-bc8e-77cb53215294)
+![Diseño sin título (1)](https://github.com/macarenapazg/macarenapazg/assets/113479365/6594ccaa-4eda-446e-a899-8320e629d51b)
+
 # Hi, I'm Macarena Paz ☮
 
 ## Front End Developer 👩🏻‍💻
