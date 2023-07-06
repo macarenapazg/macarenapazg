@@ -1,5 +1,4 @@
-![Black And Turquoise Futuristic Twitch Webcam Overlay Template](https://github.com/macarenapazg/macarenapazg/assets/113479365/4734fca4-b331-4281-894e-2781c8e9603d)
-
+ ![Diseño sin título](https://github.com/macarenapazg/macarenapazg/assets/113479365/ad60ee54-e803-44f2-bc8e-77cb53215294)
 # Hi, I'm Macarena Paz ☮
 
 ## Front End Developer 👩🏻‍💻
