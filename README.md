@@ -1,4 +1,4 @@
-![You automatically lose the chances you don't take  (1)](https://github.com/macarenapazg/macarenapazg/assets/113479365/ace4b63d-61a4-4a96-b1f7-1afe316f6ad9)
+![Black And Turquoise Futuristic Twitch Webcam Overlay Template](https://github.com/macarenapazg/macarenapazg/assets/113479365/4734fca4-b331-4281-894e-2781c8e9603d)
 
 # Hi, I'm Macarena Paz ☮
 
