@@ -1,4 +1,4 @@
-![bnner](https://github.com/macarenapazg/macarenapazg/assets/113479365/fc47afad-6e56-48fa-86b6-4e7c9482f05a)
+![You automatically lose the chances you don't take  (1)](https://github.com/macarenapazg/macarenapazg/assets/113479365/ace4b63d-61a4-4a96-b1f7-1afe316f6ad9)
 
 # Hi, I'm Macarena Paz ☮
 
